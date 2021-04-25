@@ -1,0 +1,13 @@
+.content_log {
+    overflow-y:scroll;
+    height: 200px;
+    background-color: rgb(240,240,240);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.quote {
+	margin-left: 15px;
+	text-align: left;
+	font-style: italic;
+}
